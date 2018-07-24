@@ -1,0 +1,17 @@
+commit be7a5d127dc95325b7312f8048e5d61e0a287620
+Author: JulieSokol <luliksokol@gmail.com>
+Date:   Mon Jul 23 18:35:13 2018 +0300
+
+    added gitignore
+
+commit 232432eca3c7567e1a42809b286238de78636101
+Author: JulieSokol <luliksokol@gmail.com>
+Date:   Mon Jul 23 13:19:17 2018 +0300
+
+    added two files
+
+commit 4d4dbebed797146f3224fe27eeda10a1d8b41294
+Author: JulieSokol <luliksokol@gmail.com>
+Date:   Mon Jul 23 13:11:04 2018 +0300
+
+    added readme.txt
