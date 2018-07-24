@@ -1,28 +1,25 @@
-# This is a large heading
+# Julia Sokolova
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Saint Petersburg, in Russia.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favourite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Lavr* by Evgeny Vodoloazkin
+- *June* by Dmitry Bikov
+- *Little prince* by A.de Saint-Exupery
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating the following food:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Berries.
+2. Mushrooms.
+3. Milkshake from McDonalds.
+
+### Contact
+
+The best way to get in touch with me is [in VK](https://vk.com/juliesokolova).
